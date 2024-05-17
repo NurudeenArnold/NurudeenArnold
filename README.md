@@ -9,7 +9,7 @@
 <div align="center">
 <a href="https://nurudeenportfolio.netlify.app/">
     <img src="https://img.shields.io/badge/User-%F0%9F%91%A4-%23000000?style=flat-square" alt="Portfolio" style="vertical-align:middle; margin-right: 5px;">
-    <span style="color:#FFFFFF;">Portfolio</span>
+    <span style="background-color:#FFFFFF; color:#000000; padding: 5px;">Portfolio</span>
 </a>
 </div>
 
