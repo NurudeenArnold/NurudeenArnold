@@ -8,7 +8,7 @@
 # 😎 Portfolio:
 <div align="center">
 <a href="https://nurudeenportfolio.netlify.app/">
-    [![User](https://img.shields.io/badge/User-%F0%9F%91%A4-%23ff69b4)]([https://your-profile-url](https://nurudeenportfolio.netlify.app/))
+    <img src="https://img.shields.io/badge/User-%F0%9F%91%A4-%23ff69b4" alt="Portfolio"></img>
 </a>
 </div>
 
