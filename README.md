@@ -7,7 +7,7 @@
 
 # 🌐 Socials:
 <div align="center">
-<a href="https://www.linkedin.com/in/nurudeen-arnold-a25694219/" target=_blank>
+<a href="https://www.linkedin.com/in/nurudeen-arnold-a25694219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </div>
