@@ -5,6 +5,13 @@
 <p>I am Nurudeen Arnold, a dedicated software developer based in Cape Town, South Africa, driven by a passion for leveraging technology to create impactful solutions. I embrace coding as a crucial skillset while exploring diverse avenues for creative problem-solving. I actively pursue projects in web development and android app creation, nurturing a comprehensive understanding of technology's potential. With a collaborative mindset, strong technical proficiency, and a commitment to continuous learning, I seek to contribute my skills to a forward-thinking company, eager to innovate and make a tangible difference.</p>
 </div>
 
+# 😎 Portfolio:
+<div align="center">
+<a href="https://nurudeenportfolio.netlify.app/">
+    [![User](https://img.shields.io/badge/User-%F0%9F%91%A4-%23ff69b4)]([https://your-profile-url](https://nurudeenportfolio.netlify.app/))
+</a>
+</div>
+
 # 🌐 Socials:
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nurudeen-arnold-a25694219/">
