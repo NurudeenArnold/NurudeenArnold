@@ -1,3 +1,4 @@
+<div align="center">
 # 👀 About me:
 <div align="center">
 <p>I am Nurudeen Arnold, a dedicated software developer based in Cape Town, South Africa, driven by a passion for leveraging technology to create impactful solutions. I embrace coding as a crucial skillset while exploring diverse avenues for creative problem-solving. I actively pursue projects in web development and android app creation, nurturing a comprehensive understanding of technology's potential. With a collaborative mindset, strong technical proficiency, and a commitment to continuous learning, I seek to contribute my skills to a forward-thinking company, eager to innovate and make a tangible difference.</p>
@@ -41,5 +42,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NurudeenArnold&theme=dark&hide_border=false" alt="GitHub Streak">
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurudeenArnold&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
 </div>
 
